@@ -21,15 +21,15 @@
 <h3 align="center">
 A passionate MERN Stack developer from Pakistan <br />
   <br />
-Bachelor Software Engineering (To be graduated in 2022)
+Bachelor of Software Engineering
 </h3>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at Comsats University Islamabad.
+- 🎓 &nbsp; Studied Computer Science at Comsats University Islamabad.
 - 💼 &nbsp; Working in MERN Stack as a Professional.
-- 🌱 &nbsp; Learning more about Cyber Security, Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Cyber Security, Systems Design, and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 ![Github Image](https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg)
