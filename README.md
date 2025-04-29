@@ -19,18 +19,17 @@
 </div>
 
 <h3 align="center">
-A passionate MERN Stack developer from Pakistan <br />
+Senior Frontend Developer <br />
   <br />
-Bachelor of Software Engineering
 </h3>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Computer Science at Comsats University Islamabad.
-- 💼 &nbsp; Working in MERN Stack as a Professional.
-- 🌱 &nbsp; Learning more about Cyber Security, Systems Design, and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🚀 &nbsp; Building scalable frontend applications using React.js, Next.js, and SwiftUI with a focus on performance and great user experience.
+- 🎓 &nbsp; Graduated in Software Engineering from COMSATS University Islamabad, always committed to continuous learning and growth.
+- 💼 &nbsp; Currently working as a Frontend Engineer at Hyperleap Futures Limited, contributing to innovative projects in React, Next.js, and SwiftUI.
+- 🌱 &nbsp; Expanding my expertise in Artificial Intelligence, Cyber Security, Financial Systems, and System Design to future-proof my career.
+- ✍️ &nbsp; Passionate about Financial Literacy, Tech Trends, and occasionally exploring Graphic Design and Content Writing as creative outlets.
 
 ![Github Image](https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg)
 
